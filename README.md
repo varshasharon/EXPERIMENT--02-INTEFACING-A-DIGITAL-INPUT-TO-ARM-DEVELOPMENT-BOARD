@@ -120,6 +120,7 @@ static void MX_GPIO_Init(void)
 ## Output  :
 
 ### SWITCH OFF
+
  <img src="https://github.com/varshasharon/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/98278161/3023122f-a6f6-4479-a335-051f3b01cd53" width=450 height=475>
  
 ### SWITCH ON 
